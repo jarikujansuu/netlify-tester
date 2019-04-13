@@ -1,12 +1,12 @@
 ---
-title: "About Hugo"
-date: "2014-04-09"
-displayInMenu: true
+title: About Hugo
+date: 2014-04-09 00:00:00 +0000
+displayInMenu: false
 displayInList: true
 dropCap: false
----
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+---
+**Just testing stuff**
 
 It makes use of a variety of open source projects including:
 
@@ -17,4 +17,3 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
