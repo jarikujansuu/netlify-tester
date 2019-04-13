@@ -4,6 +4,7 @@ date: 2014-04-09 00:00:00 +0000
 displayInMenu: false
 displayInList: false
 dropCap: false
+show_in_menu: true
 
 ---
 **Just testing stuff**
