@@ -16,5 +16,6 @@ fields:
   label: Show in list
   name: displayInList
 pages:
+- content/testing-stuff.md
 - content/about.md
 - content/next-one.md
