@@ -8,3 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: boolean
+  name: show_in_menu
+  label: Show in menu
+  description: displayInMenu
+- type: boolean
+  label: Show in list
+  name: displayInList
