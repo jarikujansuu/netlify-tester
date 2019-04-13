@@ -16,3 +16,5 @@ fields:
 - type: boolean
   label: Show in list
   name: displayInList
+pages:
+- content/next-one.md
