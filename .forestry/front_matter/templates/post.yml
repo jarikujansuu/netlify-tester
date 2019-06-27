@@ -16,6 +16,7 @@ fields:
   label: Show in list
   name: displayInList
 pages:
+- content/posts/huuhaa.md
 - content/testing-stuff.md
-- content/about.md
 - content/next-one.md
+- content/about.md
